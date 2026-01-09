@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/8QfKJ9N.png" width="700"/>
+<img src="![Image](https://github.com/user-attachments/assets/2da81223-6296-42dd-b143-9326f874f139)"
 
 # Arthur Souza Ventura
 ### QA Júnior • Testes de Software • Qualidade
