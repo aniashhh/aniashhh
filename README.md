@@ -67,7 +67,7 @@ Este perfil contém projetos e materiais relacionados a:
 
 ## Contato
 - Email: **arthursv.academ@gmail.com**
-- Telefone: **(11) 95347-7012**
+- Telefone: **(11) 98347-7012**
 
 ---
 
